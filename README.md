@@ -1,7 +1,7 @@
 # SimpleCalender
 SimpleCalender Cli in .NET
 
-![example](./docs/img/example1.png)
+![example](./docs/example1.png)
 
 # Dependency
 [.NET 6.0](https://dotnet.microsoft.com/download/dotnet/6.0)
